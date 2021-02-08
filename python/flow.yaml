@@ -1,0 +1,9 @@
+!Flow
+version: '1'
+with:
+  rest_api: false
+pods:
+  - name: pod1
+    uses: _pass
+  - name: pod2
+    uses: _pass
